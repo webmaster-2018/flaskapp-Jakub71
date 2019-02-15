@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <email>
+    Jakub Drypa  jakub.drypa@lo1.sandomierz.pl
 
 # THANKS
 
