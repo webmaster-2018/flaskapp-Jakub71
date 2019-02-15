@@ -13,3 +13,4 @@ def index():
     """Strona główna"""
     return render_template('index.html')
 
+
